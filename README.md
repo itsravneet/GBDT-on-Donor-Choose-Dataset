@@ -1,10 +1,10 @@
 # GBDT-on-Donor-Choose-Dataset
 
-This is classification problem in which we have to predict if the given proposol will be accepted by the volunteers. 
+This is classification problem in which we have to predict if the given proposol will be accepted by the volunteers. \n
 
-Dataset can be downloaded from here: https://www.kaggle.com/manasvee1/donorschooseorg-application-screening
+Dataset can be downloaded from here: https://www.kaggle.com/manasvee1/donorschooseorg-application-screening\n
 
-Dataset Features: 
+Dataset Features: \n
         id - unique id of the project application
         teacher_id - id of the teacher submitting the application
         teacher_prefix - title of the teacher's name (Ms., Mr., etc.)
